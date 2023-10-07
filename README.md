@@ -17,11 +17,11 @@ We will utilize multiple metrics to evaluate the correctness of our model. We wi
 The discussion will revolve around how well our model performs in comparison to existing research, highlighting its strengths and weaknesses. We'll also consider the practical implications of deploying such a model in real-world financial systems, including privacy concerns, scalability, and adaptability to evolving fraud tactics. 
 
 # Potential Datasets:
-Dataset 1 - contains various transaction details such as location, amount, and type
-Dataset 2 - contains a large series of data points, but is highly imbalanced and feature titles are hidden for confidentiality purposes
+* Dataset 1 - contains various transaction details such as location, amount, and type
+* Dataset 2 - contains a large series of data points, but is highly imbalanced and feature titles are hidden for confidentiality purposes
 
 # Sources:
-2023 credit card fraud report. Security.org. (2023, May 22). https://www.security.org/digital-safety/credit-card-fraud-report/
-Bin Sulaiman, R., Schetinin, V. & Sant, P. Review of Machine Learning Approach on Credit Card Fraud Detection. Hum-Cent Intell Syst 2, 55–68 (2022). https://doi.org/10.1007/s44230-022-00004-0
-Dornadula, V. N. and Geetha, S. Credit Card Fraud Detection using Machine Learning Algorithms. Procedia Computer Science 165, 631–641 (2019). https://doi.org/10.1016/j.procs.2020.01.057
-Ileberi, E., Sun, Y. & Wang, Z. A machine learning based credit card fraud detection using the GA algorithm for feature selection. J Big Data 9, 24 (2022). https://doi.org/10.1186/s40537-022-00573-8
+* 2023 credit card fraud report. Security.org. (2023, May 22). https://www.security.org/digital-safety/credit-card-fraud-report/
+* Bin Sulaiman, R., Schetinin, V. & Sant, P. Review of Machine Learning Approach on Credit Card Fraud Detection. Hum-Cent Intell Syst 2, 55–68 (2022). https://doi.org/10.1007/s44230-022-00004-0
+* Dornadula, V. N. and Geetha, S. Credit Card Fraud Detection using Machine Learning Algorithms. Procedia Computer Science 165, 631–641 (2019). https://doi.org/10.1016/j.procs.2020.01.057
+* Ileberi, E., Sun, Y. & Wang, Z. A machine learning based credit card fraud detection using the GA algorithm for feature selection. J Big Data 9, 24 (2022). https://doi.org/10.1186/s40537-022-00573-8
