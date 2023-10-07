@@ -1,6 +1,6 @@
 # ML_project
 
-Introduction & Background: 
+# Introduction & Background: 
 In today’s rapidly evolving financial landscape, with the popularization of digital payments, credit card fraud is a significant concern. According to the 2023 Credit Card Fraud Report, 65% of credit card holders in the US have been victims of credit card fraud. Previous research on fraudulent credit transactions uses several machine learning classifiers.  Logistic Regression determines the probability of fraudulent transactions through a linear function (Ileberi et al.) whereas Random Forest combines Decision Trees to determine fraudulence based on majority classification. Naive Bayes assumes feature independence to estimate fraud likelihood (Ileberi et. al.). Sulaiman et al. proposes ANNs, which involves layered nodes for precise classification in a privacy-focused federated learning framework and genetic algorithms aid in feature selection to enhance model accuracy (Ileberi et. al.). 
 
 Our study will consider various transaction features such as location, amount, method, and user history in the datasets that we are looking into.
