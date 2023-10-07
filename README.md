@@ -27,11 +27,11 @@ The discussion will revolve around how well our model performs in comparison to 
 * Ileberi, E., Sun, Y. & Wang, Z. A machine learning based credit card fraud detection using the GA algorithm for feature selection. J Big Data 9, 24 (2022). https://doi.org/10.1186/s40537-022-00573-8
 
 # Contributions:
-Introduction/Background: Shreya Malpani, Ishita Verma, Khushi Bhardwaj 
-Problem Definition: Shreya Malpani and Ishita Verma
-Gantt Chart: Shreya Malpani and Ishita Verma
-Methods: Amirita Manickandan and Priyanka Mosur
-Potential Results & Discussion: Khushi Bhardwaj, Priyanka Mosur, Amirita Manickandan
-Video: Amirita Manickandan and Priyanka Mosur
-GitHub Pages: Khushi Bhardwaj, Priyanka Mosur, Amirita Manickandan
+* Introduction/Background: Shreya Malpani, Ishita Verma, Khushi Bhardwaj 
+* Problem Definition: Shreya Malpani and Ishita Verma
+* Gantt Chart: Shreya Malpani and Ishita Verma
+* Methods: Amirita Manickandan and Priyanka Mosur
+* Potential Results & Discussion: Khushi Bhardwaj, Priyanka Mosur, Amirita Manickandan
+* Video: Amirita Manickandan and Priyanka Mosur
+* GitHub Pages: Khushi Bhardwaj, Priyanka Mosur, Amirita Manickandan
 
