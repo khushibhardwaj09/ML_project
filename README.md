@@ -25,3 +25,13 @@ The discussion will revolve around how well our model performs in comparison to 
 * Bin Sulaiman, R., Schetinin, V. & Sant, P. Review of Machine Learning Approach on Credit Card Fraud Detection. Hum-Cent Intell Syst 2, 55–68 (2022). https://doi.org/10.1007/s44230-022-00004-0
 * Dornadula, V. N. and Geetha, S. Credit Card Fraud Detection using Machine Learning Algorithms. Procedia Computer Science 165, 631–641 (2019). https://doi.org/10.1016/j.procs.2020.01.057
 * Ileberi, E., Sun, Y. & Wang, Z. A machine learning based credit card fraud detection using the GA algorithm for feature selection. J Big Data 9, 24 (2022). https://doi.org/10.1186/s40537-022-00573-8
+
+# Contributions:
+Introduction/Background: Shreya Malpani, Ishita Verma, Khushi Bhardwaj 
+Problem Definition: Shreya Malpani and Ishita Verma
+Gantt Chart: Shreya Malpani and Ishita Verma
+Methods: Amirita Manickandan and Priyanka Mosur
+Potential Results & Discussion: Khushi Bhardwaj, Priyanka Mosur, Amirita Manickandan
+Video: Amirita Manickandan and Priyanka Mosur
+GitHub Pages: Khushi Bhardwaj, Priyanka Mosur, Amirita Manickandan
+
